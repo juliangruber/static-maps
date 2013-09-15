@@ -47,9 +47,10 @@ convert();
 
 And you'll get something like:
 
-![example](https://i.cloudup.com/OfeH6LBXbZ.png)
+![example](/example/screenshot.png)
 
-Check `/example` for the full example.
+Check [/example](https://github.com/juliangruber/static-maps/tree/master/example)
+for the full example.
 
 ## API
 
